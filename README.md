@@ -7,7 +7,7 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 ## My skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/REACT -FF0000" />
+<img src="https://img.shields.io/badge/REACT -44b2fb" />
 <img src="https://img.shields.io/badge/SCSS -FF0000" />  
 <img src="https://img.shields.io/badge/JAVA -ff7b19" />
 <img src="https://img.shields.io/badge/PYTHON -ff7b19" />
