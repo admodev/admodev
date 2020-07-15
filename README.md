@@ -20,14 +20,12 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 🕹 Game Development
 🎨 Pixel Art
 
-### <summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-        <li>Arch Linux</li>
-        <li>Debian (Linux)</>
-        <li>Mac OS</>
-	</ul
-  
+### Operating Systems
+	
+	- Windows
+	- Arch Linux
+	- Debian (Linux)
+	- Mac OS
+	
   ### Useful Links
-  
-  <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+  [<img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/>](https://drive.google.com/file/d/10WeoSJSd2pXZG1oQScNXqzHI8ZuHqsgy/view?usp=sharing)
