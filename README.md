@@ -14,10 +14,14 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 
 ## I am passionate about
 
-💻 Web Development
-📱 Mobile Development
+💻 Web Development 
+
+📱 Mobile Development 
+
 💾 Software Development
+
 🕹 Game Development
+
 🎨 Pixel Art
 
 ### Operating Systems
