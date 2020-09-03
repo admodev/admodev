@@ -39,9 +39,9 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 	
 ### Follow Me!
 
-<img src="https://img.shields.io/badge/_don_adolfo_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/admodev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kalashnikox%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+[<img src="https://img.shields.io/badge/_don_adolfo_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_don_adolfo_/)
+[<img src="https://img.shields.io/badge/admodev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/admodev)
+[<img src="https://img.shields.io/badge/Kalashnikox%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/Kalashnikox)
 
 ### Useful Links
   [<img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/>](https://drive.google.com/file/d/10WeoSJSd2pXZG1oQScNXqzHI8ZuHqsgy/view?usp=sharing)
