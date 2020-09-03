@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires, Argentina, currently working as a freelance developer and i am the CEO of my own agency "Digital Solutions Argentina"
+My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires, Argentina, currently working as a freelance developer, i am the CEO of my own agency "Digital Solutions Argentina", open-source supporter, indie game developer, podcaster and IT youtuber, sometimes i teach people about programming and technology...
 
 ## My skills
 
