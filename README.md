@@ -32,8 +32,7 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 ### Operating Systems
 	
 	- Windows
-	- Arch Linux
-	- Linux Mint
+	- Linux
 	- Mac OS
 	
 ### Follow Me!
