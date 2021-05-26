@@ -1,10 +1,10 @@
-# 🖥 Software Engineer
+# 🖥 admodev - Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/admodev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/admodev?tab=followers)
 
 ### Hi there 👋
 
-My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires, Argentina, currently working as a freelance developer, i am the CEO of my own agency "Digital Solutions Argentina", open-source supporter, indie game developer, podcaster and IT youtuber, sometimes i teach people about programming and technology...
+My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires, Argentina, i am the CEO of "ExegesisBA" and "Qworks!", open-source supporter, indie game developer, podcaster and IT youtuber, i teach people about programming and technology...
 
 ## My skills
 
