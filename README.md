@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires, Argentina, i am the CEO of "ExegesisBA" and "Qworks!", open-source supporter, indie game developer, podcaster and IT youtuber, i teach people about programming and technology...
+Full stack engineer, metalhead, open source contributor, Java lover, React enthusiast.
 
 ## My skills
 
@@ -26,8 +26,6 @@ My name is Adolfo, alias: admodev, i'm a full stack developer from Buenos Aires,
 💾 Software Development
 
 🕹 Game Development
-
-🎨 Pixel Art
 
 ### Operating Systems
 	
