@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Full stack engineer, metalhead, open source contributor, Java lover, React enthusiast.
+Full stack engineer, open source contributor, Java lover, React enthusiast.
 
 ## My skills
 
