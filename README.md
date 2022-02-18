@@ -39,8 +39,8 @@
 ### Operating Systems
 	
 	- Windows
-	- Linux Kernel (Arch Linux & Debian distributions)
 	- MacOS
+	- Linux Kernel (Arch Linux & Debian distributions)
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
