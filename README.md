@@ -2,9 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/admodev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/admodev?tab=followers)
 
-### Hi there 👋
-
-Full stack engineer here, based on Buenos Aires, Argentina, open-source contributor, crypto enthusiast.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=admodev&count_private=true&show_icons=true&theme=onedark)
 
 ## My skills
 
@@ -34,8 +32,6 @@ Full stack engineer here, based on Buenos Aires, Argentina, open-source contribu
 
 💻 Web Development 
 
-📱 Mobile Development 
-
 💾 Software Development
 
 🕹 Game Development
@@ -45,6 +41,10 @@ Full stack engineer here, based on Buenos Aires, Argentina, open-source contribu
 	- Windows
 	- Linux
 	- MacOS
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=admodev)](https://github.com/anuraghazra/github-readme-stats)
 	
 ### Follow Me!
 
