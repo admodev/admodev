@@ -17,7 +17,7 @@
 
 #### Top Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=admodev&repo=ccg&show_owner=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=admodev&repo=ccg&show_owner=true&theme=onedark)](https://github.com/admodev/ccg)
 
 ## My skills
 
