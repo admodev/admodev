@@ -13,9 +13,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=admodev&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Top Project
+#### Top Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=admodev&repo=ccg&show_owner=true&theme=onedark)](https://github.com/admodev/ccg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=admodev&repo=speakfree&show_owner=true&theme=onedark)](https://github.com/admodev/speakfree)
 
 ## My skills
 
