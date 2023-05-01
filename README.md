@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 🔭 I’m currently working on a complete electronic billing system.<br>👯 I’m looking to collaborate on all sorts of open-source projects.<br>🤝 I’m looking for help with devops engineering, backend and frontend tasks.<br>🌱 I’m currently learning AWSW CDK<br>💬 Ask me about coding: https://twitter.com/admodevops
 
 
