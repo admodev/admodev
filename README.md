@@ -32,5 +32,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<a href="https://app.daily.dev/admodevops"><img src="https://api.daily.dev/devcards/adfd0e1b4dd84267902369149448dabf.png?r=glr" width="400" alt="Adolfo Moyano's Dev Card"/></a>
