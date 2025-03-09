@@ -7,11 +7,11 @@ Senior SRE Cloud Specialist and Backend Engineering Lead
 I've been coding and architecting software as well as infrastructure for 7 years now. I'm truly passionate about what I do everyday and very concerned about delivering good quality software and reliable infrastructure to run it acording to companies SLA and SLO's.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [SRE Portfolio](http://admodevopsportfolio.netlify.app/)
-* ✉️  You can contact me at [amoyano@puertosur.net](mailto:amoyano@puertosur.net)
+* 🖥️  See my portfolio at [Adolfo Moyano Portfolio](http://admodevopsportfolio.netlify.app/)
+* ✉️  You can contact me at [admodevcodes@outlook.com](mailto:admodevcodes@outlook.com)
 * 🧠  I'm learning AI and Machine Learning in DevOps
 * 🤝  I'm open to collaborating on open source projects and paid development services too
-* ⚡  When i'm neither working nor studying, i'm playing the guitar
+* ⚡  When i'm neither working nor studying, i'm playing the guitar (or working on a side project...)
 
 ### Skills
 
