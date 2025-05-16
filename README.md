@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer and Cloud Engineering Specialist
 --------------------------------------------------------
 
-I've been coding and architecting software as well as infrastructure for 7 years now. I'm truly passionate about what I do everyday and very concerned about delivering good quality software and reliable infrastructure to run it acording to companies SLA and SLO's.
+I've been coding and architecting software as well as infrastructure for 6 years now. I'm truly passionate about what I do everyday and very concerned about delivering good quality software and reliable infrastructure to run it acording to companies SLA and SLO's.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [Adolfo Moyano Portfolio](http://admodevopsportfolio.netlify.app/)
