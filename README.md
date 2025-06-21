@@ -9,7 +9,7 @@ I've been coding and architecting software as well as infrastructure for 6 years
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [Adolfo Moyano Portfolio](http://admodevopsportfolio.netlify.app/)
 * ✉️  You can contact me at [admodevcodes@outlook.com](mailto:admodevcodes@outlook.com)
-* 🧠  I'm currently learning MLOps
+* 🧠  I'm currently learning complex animations/transitions on Vue.js
 * 🤝  I'm open to collaborating on open source projects and paid development services too
 
 ### Skills
